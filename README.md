@@ -1,5 +1,8 @@
 ### Hi!
-My name is Sophia and I'm currently working on an astronomy project. 
+My name is Sophia and I'm currently working on an astronomy project. I like baking, reading, writing, dancing, and playing the violin. Lots of love ❤️
+
+Fun fact: if your immune system knew you had eyes, it would attack your eyeballs and you would go blind :)
+
 <!--
 **liu-xue-fei26/liu-xue-fei26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
