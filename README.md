@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi!
+My name is Sophia and I'm currently working on an astronomy project. 
 <!--
 **liu-xue-fei26/liu-xue-fei26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
